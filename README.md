@@ -1,7 +1,9 @@
 ### bem vindos(as) ao meu perfil!!
 
 👋 Hi, I’m @24LNS2E
+
 Ela/Dela
+
 Estou estudando no Alura
   ...
 
